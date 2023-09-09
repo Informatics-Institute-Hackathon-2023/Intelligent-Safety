@@ -32,7 +32,7 @@ The theme for Hackin’ Omics is: multi-omics downstream analysis for discovery 
 Attend pre-hackathon workshops or watch recordings to get up to speed.
 
 - [Introduction and Recipe for Hackathon Success](https://uab.zoom.us/rec/share/CYeQe4SqVFMuud4OqE5vmzJb1bzJBDdzd_F5CvlHJ9of59AJyqszisa1EUawURgC.iJK7bW0OIxhLsK2t)
-- [Machine Learning and AI for Tabular Data; Generative AI and Natural Language Processing]([Computing Resources Workshop: https://www.youtube.com/watch?v=VRwqht_idMs](https://uab.zoom.us/rec/share/H5D_-dOsoYpC8Oa6Wu2lfJpiwWyPRJFWZBYWPmDnKAk3ldmbpcRY2jk0kQ8h7IdI.paJ15IXu3nasXf3W)
+- [Machine Learning and AI for Tabular Data; Generative AI and Natural Language Processing](https://uab.zoom.us/rec/share/H5D_-dOsoYpC8Oa6Wu2lfJpiwWyPRJFWZBYWPmDnKAk3ldmbpcRY2jk0kQ8h7IdI.paJ15IXu3nasXf3W)
 - [Learning for Good: ACCESS Resources to Solve Computational Research Problems at UAB and Beyond](https://uab.zoom.us/rec/share/d6UX5qA27OzpfZ3l73dYYZ5sGrRVJf-nZqZ-O95BtxX-hZeAQuICH7jbMm-zYSh3.lZySbTXQVHLd6nIK)
 - [PrepCatalyst: Igniting Your Hackathon Success](https://mediaspace.uab.edu/media/PrepCatalystA+Igniting+Your+Hackathon+Success+-+Hackathon+2023/1_2zlcg0nt)
 - [Patient Safety 101](https://mediaspace.uab.edu/media/Patient+Safety+101+-+Hackathon+2023/1_2yhmmcaq)
