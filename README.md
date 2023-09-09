@@ -49,22 +49,6 @@ Please checkout [this document](/resources/team_member_checklist.md).
 
 |Team Name                                        |Team Leader                  |GitHub Repository                              |Slack Channel              |
 |-------------------------------------------------|-----------------------------|-----------------------------------------------|---------------------------|
-|BiocSwirl                                        |Almas Khan                   |                                               |#team1-biocswirl           |
-|canAI                                            |Tarun karthik kumar Mamidi   |https://github.com/u-brite/canAI               |#team2-canai               |
-|ImageNomeR (Image, Genome/Transcriptome Explorer)|Anton Orlichenko,Jack Freeman|https://github.com/u-brite/ImageNomeR          |#team4-imagenomer          |
-|mCIRCrna                                         |Shufan Zhang                 |                                               |#team5-mcircrna            |
-|MedvAIsor                                        |Rahul Sharma                 |https://github.com/u-brite/MedvAIsor           |#team6-medvaisor           |
-|O-miner                                          |Zongliang Yue                |https://github.com/u-brite/o-miner             |#team7-o-miner             |
-|Papaki                                           |Vasileios Alevizos           |https://github.com/u-brite/team_papaki         |#team8-papaki              |
-|ReproCanAtlas                                    |Emily Page                   |https://github.com/u-brite/ReproCanAtlas       |#team9-reprocanatlas       |
-|sigSPLICE                                        |Priyanka Gupta               |https://github.com/u-brite/SigSPLICE           |#team10-sigsplice          |
-|Single-Cell-reciter                              |Nilesh Kumar                 |                                               |#team11-single-cell-reciter|
-|SNVariome                                        |Shaurita D. Hutchins         |https://github.com/u-brite/SNVariome           |#team12-snvariome          |
-|Team AD Guy                                      |Pradeep Varathan Pugalenthi  |https://github.com/u-brite/TeamADGuy           |#team13-team-ad-guy        |
-|Team HeriVar                                     |Akhil Pampana                |https://github.com/u-brite/HeriVar             |#team14-team-herivar       |
-|Team Vecna                                       |Arun Boddapati               |https://github.com/u-brite/TeamVecna-scDehasheR|#team15-team-vecna         |
-
-
 
 ## Daily Schedule
 
