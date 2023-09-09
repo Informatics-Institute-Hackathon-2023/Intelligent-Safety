@@ -37,14 +37,6 @@ Attend pre-hackathon workshops or watch recordings to get up to speed.
 - [PrepCatalyst: Igniting Your Hackathon Success](https://mediaspace.uab.edu/media/PrepCatalystA+Igniting+Your+Hackathon+Success+-+Hackathon+2023/1_2zlcg0nt)
 - [Patient Safety 101](https://mediaspace.uab.edu/media/Patient+Safety+101+-+Hackathon+2023/1_2yhmmcaq)
 
-### Team Leader Checklist
- 
-Please checkout [this repository](https://github.com/u-brite/team-leaders-2023).
-
-### Team Member Checklist
- 
-Please checkout [this document](/resources/team_member_checklist.md).
-
 ## Projects
 
 |Team Name                                        |Team Leader                  |GitHub Repository                              |Slack Channel              |
