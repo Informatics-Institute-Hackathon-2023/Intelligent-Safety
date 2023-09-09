@@ -47,12 +47,12 @@ Attend pre-hackathon workshops or watch recordings to get up to speed.
 ### Saturday, September 9th
 
 |Time              |Event                                                                                       |Speaker(s)        |
-|------------------|--------------------------------------------------------------------------------------------|------------------|
-|9 AM – 9:30 AM    |Welcome and Introduction to Hackathon                                                       |Dr. Amy Wang      |
-|9:30 AM – 10:00 AM|Speed Networking                                                                            |                  |
-|10 AM – until     |Teams will move to break-out rooms and work on their projects. Office hours will also start.|                  |
-|4:30 PM           |Teams check in with organizers & mentors to discuss progress                                |                  |
-|5 PM – until      |Teams return to break out rooms to hack omics                                               |                  |
+|-------------------|--------------------------------------------------------------------------------------------|------------------|
+|9 AM – 9:30 AM     |Welcome and Introduction to Hackathon                                                       |Dr. Amy Wang      |
+|9:30 AM – 10:00 AM |Speed Networking                                                                            |                  |
+|10 AM – until      |Teams will move to break-out rooms and work on their projects. Office hours will also start.|                  |
+|4:30 PM            |Teams check in with organizers & mentors to discuss progress                                |                  |
+|5 PM – until       |Teams return to break out rooms to hack omics                                               |                  |
 
 ### Sunday, September 10th
 
